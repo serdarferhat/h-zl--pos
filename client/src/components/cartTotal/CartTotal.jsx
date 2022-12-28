@@ -121,7 +121,7 @@ const CartTotal = () => {
           </div>
         </div>
       </div>
-      <div className="button py-3 px-2">
+      <div className="button py-3 px-2 mt-3">
         <Button type="primary" size="large" className="w-full">
           Sipariş Oluştur
         </Button>
